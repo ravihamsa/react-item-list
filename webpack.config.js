@@ -10,7 +10,7 @@ var buildPath = path.resolve(__dirname, 'public', 'dist');
 
 var config = {
 
-    entry: ['./src/index.js'],
+    entry: ['./scripts/main.js'],
 
     devtool: 'cheap-module-eval-source-map' ,
 

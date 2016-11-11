@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "repository": "https://github.com/ravihamsa/react-item-list",
   "dependencies": {
+    "lodash": "^4.16.6",
     "react": "^15.3.2"
   },
   "scripts": {

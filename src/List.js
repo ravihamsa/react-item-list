@@ -3,6 +3,7 @@
  */
 import React, {Component} from "react";
 import ListItem from './ListItem';
+import _ from 'lodash';
 
 export default class List extends Component {
     renderNoItems() {

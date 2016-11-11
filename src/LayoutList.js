@@ -3,6 +3,7 @@
  */
 import React, {Component, PropTypes} from "react";
 import ListItem from './ListItem'
+import _ from 'lodash';
 
 export default class LayoutList extends Component {
     render() {

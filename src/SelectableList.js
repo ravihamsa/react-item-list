@@ -3,6 +3,7 @@
  */
 import React, {Component, PropTypes} from "react";
 import List from './List';
+import _ from 'lodash';
 
 
 export default class SelectableList extends List {
