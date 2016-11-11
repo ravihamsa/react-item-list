@@ -2,7 +2,7 @@
  * Created by ravi.hamsa on 11/11/16.
  */
 import React, {Component, PropTypes} from "react";
-import {List} from '../src/';
+import {List} from 'react-item-list';
 
 
 let arrayOfItems = [{id: '1', name: 'one'}, {id: '2', name: 'two'}];
