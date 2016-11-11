@@ -12,7 +12,7 @@ var config = {
 
     entry: ['./scripts/main.js'],
 
-    devtool: 'cheap-module-eval-source-map' ,
+    devtool: 'inline-source-map' ,
 
     output: {
 
